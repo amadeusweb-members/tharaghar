@@ -1,0 +1,22 @@
+#key	value
+name	Tharaghar Realty Brokerage
+byline	An Aztras Site
+year	2025
+
+|labels and messages
+iconName	Tharaghar Brokerage
+siteMenuName	TG Home
+description	A Real Estate Brokerage Site
+notes	Property Listings built on AmadeusWeb Spring.
+welcome-message	This is an Aztras Site
+footer-message	Aztras
+
+|img and styles
+safeName	aztras-tharaghar	//NOTE: used in getLogoOr
+mediakit	?palette=default
+fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	whois
+local-url	http://localhost/sites/aztras/realty/tharaghar/
+live-url	https://tharaghar.aztras.com/
